@@ -1,30 +1,27 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af/arianaafgtv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/at/magentatv.at.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml,https://iptv-org.github.io/epg/guides/co/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN HD
-http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/129?checkedby:iptvcat.com
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/129
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN HD
-http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/3005?checkedby:iptvcat.com
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/3005
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN
-http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/189?checkedby:iptvcat.com
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/189
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Undefined",TNT
 https://16live00.akamaized.net/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-country="US" tvg-language="English;Spanish" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="General",TNT East (720p) [Geo-blocked]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TNTWest.us" tvg-country="US" tvg-language="English;Portuguese;Spanish" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="General",TNT West (720p) [Geo-blocked]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="WABCDT1.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/abc.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WABC-DT1 (ABC 7) (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#EXTINF:-1 tvg-id="WABCDT1.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/abc.png" group-title="General",WABC-DT1 (ABC 7) (720p)
 https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WABCDT2.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/localish.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WABC-DT2 (Localish)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#EXTINF:-1 tvg-id="WABCDT2.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/localish.png" group-title="General",WABC-DT2 (Localish)
 https://v-ny.theus6tv.tk/hls/7.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WABCDT4.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/homeshop.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",WABC-DT4 (HSN) (432p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#EXTINF:-1 tvg-id="WABCDT4.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/homeshop.png" group-title="General",WABC-DT4 (HSN) (432p)
 https://v-ny.theus6tv.tk/hls/7.4/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBA TV HD
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/334.ts?checkedby:iptvcat.com
+http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/334.ts
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA-NBA TV(M)(720)
-http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/1585?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",PAC 12 Bay Area
-http://new-pro.tv:8080/Fernando/123321/313422?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",PAC 12 Los Angeles
-http://new-pro.tv:8080/Fernando/123321/216115?checkedby:iptvcat.com
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/1585
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",PAC 12 Bay Area
+http://new-pro.tv:8080/Fernando/123321/313422
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",PAC 12 Los Angeles
+http://new-pro.tv:8080/Fernando/123321/216115
