@@ -1,26 +1,26 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af/arianaafgtv.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/at/magentatv.at.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml,https://iptv-org.github.io/epg/guides/co/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN HD
-https://list.iptvcat.com/my_list/s/0b0fa2f5663dd90c34290a58cab69d6e.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN
-https://list.iptvcat.com/my_list/s/31714ee3b3852fb1dc35ec9db1ff4749.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN HD
-https://list.iptvcat.com/my_list/s/99ae6b477c7111791c870947ae08947e.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Undefined",TNT
+#EXTINF:0 tvg-country="US" tvg-logo="https://logodix.com/logo/2041246.jpg" group-title="Sport",ESPN HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/3005
+#EXTINF:0 tvg-country="US" tvg-logo="https://logodix.com/logo/2041246.jpg" group-title="Sport",ESPN HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/129
+#EXTINF:0 tvg-country="US" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png" group-title="Sport",ESPN
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/189
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="Undefined",TNT
 https://16live00.akamaized.net/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-country="US" tvg-language="English;Spanish" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="General",TNT East (720p) [Geo-blocked]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TNTWest.us" tvg-country="US" tvg-language="English;Portuguese;Spanish" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="General",TNT West (720p) [Geo-blocked]
 https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC KGO HD
-https://list.iptvcat.com/my_list/s/cab32ba59be353d7aaf8531e5d530916.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/KGO-TV_%282021%29.svg" group-title="Undefined",ABC KGO HD
+http://appleiptv.com:80/abdul/abdul/28035
 #EXTINF:-1 tvg-id="WABCDT1.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/abc.png" group-title="General",WABC-DT1 (ABC 7) (720p)
 https://v-ny.theus6tv.tk/hls/7.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WABCDT2.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/localish.png" group-title="General",WABC-DT2 (Localish)
 https://v-ny.theus6tv.tk/hls/7.2/playlist.m3u8
 #EXTINF:-1 tvg-id="WABCDT4.us" tvg-country="US-NY" tvg-language="English" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/homeshop.png" group-title="General",WABC-DT4 (HSN) (432p)
 https://v-ny.theus6tv.tk/hls/7.4/playlist.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",USA-NBA TV(M)(720)
-https://list.iptvcat.com/my_list/s/daa20d635f3f37551c76cecc1c21a56e.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.postimg.cc/tCW9ZDmW/nba.png" group-title="Sport",NBA TV
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/1585
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",PAC 12 Bay Area
 http://new-pro.tv:8080/Fernando/123321/313422
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",PAC 12 Los Angeles
@@ -28,42 +28,42 @@ http://new-pro.tv:8080/Fernando/123321/216115
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Hong Kong",TVB J1 (720p) [Geo-blocked]
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SHOWTIME HD
-https://list.iptvcat.com/my_list/s/7fae130121ecb64768d24a72b2dbaaa8.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",SHOWTIME EAST
-https://list.iptvcat.com/my_list/s/4c01256ee89ad816d958c4dee7c9dcdb.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",SHOWTIME EXTREME
-https://list.iptvcat.com/my_list/s/798302eecd69b65c8e633f6bc858491d.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",SHOWTIME NEXT
-https://list.iptvcat.com/my_list/s/3359a2cd46f3a995d40c87df33871aa7.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",SHOWTIME WEST
-https://list.iptvcat.com/my_list/s/72dd38705bbf36a0915b17b38350df9f.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",HBO 2
-https://list.iptvcat.com/my_list/s/3cd2f9e3609214bd5cc6d58ab0024a05.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",HBO HD
-https://list.iptvcat.com/my_list/s/87984699ef3798043f64266ed8f71eed.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",HBO Signature
-https://list.iptvcat.com/my_list/s/3b82a42dd36ff3b1dab0e9f74983ae51.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",HBO Zone
-https://list.iptvcat.com/my_list/s/a05b4a002b8ce028ef475a2807c045c5.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",CINEMAX ACTION HD
-https://list.iptvcat.com/my_list/s/9c867a5180fa86e46cb469eb73dc571f.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",CineMAX HD
-https://list.iptvcat.com/my_list/s/e6572136f810c62b2020ada6662dd147.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",CineMax 5 Star Max HD
-https://list.iptvcat.com/my_list/s/158760ca7976ca44ffc68508fc3cb155.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",Cinemax ThrillerMax FHD
-https://list.iptvcat.com/my_list/s/3d1e6fe85f81cf3e66b584297f8f1f99.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",STARZ CINEMA
-https://list.iptvcat.com/my_list/s/81011f002cbda3163956dc0d4325418e.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",STARZ EAST
-https://list.iptvcat.com/my_list/s/1d74b48f799a1a32311146b8eb801fb0.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",STARZ ENCORE
-https://list.iptvcat.com/my_list/s/91e84e665d48866a473819e807b16e58.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",STARZ ENCORE ACTION
-https://list.iptvcat.com/my_list/s/ce07bd7657715caa5f58cdd1d2822e5d.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",Starz Edge
-https://list.iptvcat.com/my_list/s/91de8bba40691703dd1560a793bed053.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",US Epix
-https://list.iptvcat.com/my_list/s/e64d0b46c01538ba5a446477375c4468.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Movies",USA-EPIX Drive (TV)(720)
-https://list.iptvcat.com/my_list/s/2941f2650a942d97a4f607cf49941a41.m3u8
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3492
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/logo_sho_east_small.gif" group-title="Movies",SHOWTIME EAST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2952
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/logo_sho_extreme_small.gif" group-title="Movies",SHOWTIME EXTREME
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2953
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/Showtime-Next-sm.jpg" group-title="Movies",SHOWTIME NEXT
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2955
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/logo_sho_west_small.gif" group-title="Movies",SHOWTIME WEST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2957
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/logo_hbo_2_east_small.gif" group-title="Movies",HBO 2
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2942
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Movies",HBO HD
+http://new-pro.tv:8080/Fernando/123321/70476
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/logo_hbo_signature_small.gif" group-title="Movies",HBO Signature
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/2458
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/HBO_Zone-109.png" group-title="Movies",HBO Zone
+http://new-pro.tv:8080/Fernando/123321/70486
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/logo_cinemax_small.gif" group-title="Movies",CINEMAX ACTION HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/4010
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/logo_cinemax_small.gif" group-title="Movies",CineMAX HD
+http://new-pro.tv:8080/Fernando/123321/70470
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/logo_cinemax_small.gif" group-title="Movies",CineMax 5 Star Max HD
+http://new-pro.tv:8080/Fernando/123321/220909
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/logo_cinemax_small.gif" group-title="Movies",Cinemax ThrillerMax FHD
+http://new-pro.tv:8080/Fernando/123321/98105
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/Starz_Cinema_109.jpg" group-title="Movies",STARZ CINEMA
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2959
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/logo_starz_small.gif" group-title="Movies",STARZ EAST
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2961
+#EXTINF:0 tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Starz_Encore.svg/revision/latest/scale-to-width-down/1000" group-title="Movies",STARZ ENCORE
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2966
+#EXTINF:0 tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Starz_Encore.svg/revision/latest/scale-to-width-down/1000" group-title="Movies",STARZ ENCORE ACTION
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2967
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/starz-edge-109.jpg" group-title="Movies",Starz Edge
+http://new-pro.tv:8080/Fernando/123321/70501
+#EXTINF:0 tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Epix_2019_black.svg/revision/latest/scale-to-width-down/1000" group-title="Movies",US Epix
+http://appleiptv.com:80/abdul/abdul/27524
+#EXTINF:0 tvg-country="US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Epix_2019_black.svg/revision/latest/scale-to-width-down/1000" group-title="Movies",USA-EPIX Drive (TV)(720)
+http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/35572
